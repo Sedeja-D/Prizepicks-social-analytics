@@ -2,6 +2,8 @@
 
 This project analyzes public YouTube comments related to PrizePicks to understand brand sentiment, engagement patterns, and potential marketing risks.
 
+![Dashboard](PrizePicks_Dashboard.png)
+
 ## Tools Used
 - Python
 - YouTube Data API
@@ -24,6 +26,3 @@ The project collects social media comments using the YouTube API, processes and 
 
 ## Author
 Se’Deja Drigo
-
-
-![Dashboard](PrizePicks_Dashboard.png)
