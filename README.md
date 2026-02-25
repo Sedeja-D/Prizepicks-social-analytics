@@ -24,3 +24,6 @@ The project collects social media comments using the YouTube API, processes and 
 
 ## Author
 Se’Deja Drigo
+
+
+![Dashboard](PrizePicks_Dashboard.png)
